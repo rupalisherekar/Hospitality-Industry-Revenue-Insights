@@ -11,6 +11,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## [Link to My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJjZjRjZjEtMGMyZi00YjU4LWFmNzUtNzc3MGQ0ZGM5OGY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+●	With this dashboard, the Revenue team of Atliq Grands was able to gain insights into their revenue trends with respect to cities and the category of their hotels.
+
 
 ###Mock up Dashboard
 ![Presentation2](https://github.com/rupalisherekar/Hospitality-Industry-Revenue-Insights/assets/72902364/6372867a-d785-411f-8775-2647c3202eec)
